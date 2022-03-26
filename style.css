@@ -1,0 +1,15 @@
+.centra {
+    text-align: center;
+    padding: 10px;
+}
+
+.bordo-nero {
+    border: solid black 1px;
+}
+.box1 {
+    background-color: yellow;
+}
+
+.box2 {
+   background-color: lightgreen;
+}
